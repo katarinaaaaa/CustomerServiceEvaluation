@@ -1,0 +1,10 @@
+.scrollable {
+    white-space: pre-line;
+    overflow-y: scroll;
+    height: 40vh !important;
+    max-height: 40vh !important;
+}
+
+td, th {
+    padding: 20px !important; 
+}
